@@ -83,7 +83,7 @@ class Projects extends React.Component {
             <CardActions before>
               <Button colored>
                 <a
-                  href="https://github.com/kikit/my-porfolio"
+                  href="https://github.com/kikit/my-portfolio"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -92,7 +92,7 @@ class Projects extends React.Component {
               </Button>
               <Button colored>
                 <a
-                  href="https://csb-ypj4lymz3x-pxvscjrndx.now.sh/"
+                  href="https://csb-jnwkz85z3-grrgtqwslj.now.sh/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
