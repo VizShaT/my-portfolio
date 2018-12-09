@@ -92,7 +92,7 @@ class Projects extends React.Component {
               </Button>
               <Button colored>
                 <a
-                  href="http://kikit.github.io/"
+                  href="https://csb-ypj4lymz3x-pxvscjrndx.now.sh/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
